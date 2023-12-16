@@ -1,2 +1,2 @@
-def dire_bonjour(name):
-    return f"Hello, {name}, how are you?"
+def dire_aurevoir(name):
+    return f"Goodbye, {name}, see you next time."
